@@ -36,13 +36,13 @@
 
 ---
 
-## 📊 Визуализации
+##   Визуализации
 
 ### Retention Heatmap
-![Retention Heatmap](visualizations/Cohort Retention Heatmap.png)
+![Retention Heatmap](visualizations/retention-heatmap.png)
 
 ### Retention Curves
-![Retention Curves](visualizations/Retention Curves.png)
+![Retention Curves](visualizations/retention-curves.png)
 
 **[→ Открыть интерактивный дашборд](https://public.tableau.com/views/cohort_analysis_17652876649970/CustomerCohortAnalysisRetention?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
